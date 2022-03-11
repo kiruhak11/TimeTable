@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Текущая неделя" />
+    <item
+        android:id="@+id/secondFragment2"
+        android:icon="@drawable/ic_next_week"
+        android:title="Следующая неделя" />
+</menu>
